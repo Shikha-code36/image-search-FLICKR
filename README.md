@@ -1,7 +1,7 @@
 # image-search-flickr
 
 * A react js application powered by the [Flickr](https://flickr.com) for images. 
-* Visit the live demo [here](https://kind-wright-bfc6a9.netlify.app/).
+* Visit the live demo [here](https://imagefiltersearch-b.netlify.app/).
 
 ## Screenshots
 
